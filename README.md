@@ -37,6 +37,11 @@ Book an appointment with a specialist.
 ## License
 This project is licensed under the MIT License. The MIT License allows open-source use while giving developers the freedom to modify and distribute the code.
 
+### Why MIT?  
+- Allows open-source contribution and commercial use.  
+- Minimal restrictions on modification and redistribution.  
+- Simple and widely used in the open-source community.  
+
 ## Contributing
 Fork the repository.
 Create a new branch: git checkout -b feature-name
